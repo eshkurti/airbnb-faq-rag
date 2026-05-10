@@ -102,7 +102,3 @@ Key parameters in `rag_chat.py`:
 - `k=5` — number of FAQ entries to retrieve per query
 - `min_similarity=0.5` — cosine similarity threshold (filters out irrelevant results)
 - Embedding cache is stored at `data/airbnb_embeddings.pkl`
-
-## License
-
-MIT
