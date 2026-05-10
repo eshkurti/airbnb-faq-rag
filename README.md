@@ -63,8 +63,8 @@ git clone https://github.com/eshkurti/airbnb-faq-rag.git
 cd airbnb-faq-rag
 
 python -m venv .venv
-source .venv/bin/activate        # Linux/macOS
-# .venv\Scripts\activate         # Windows
+.venv\Scripts\activate         # Windows
+ # source .venv/bin/activate        # Linux/macOS
 
 pip install -r requirements.txt
 
