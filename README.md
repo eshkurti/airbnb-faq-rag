@@ -59,7 +59,7 @@ The full-context baseline demonstrates *why* RAG is needed: stuffing all 473 FAQ
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/airbnb-faq-rag.git
+git clone https://github.com/eshkurti/airbnb-faq-rag.git
 cd airbnb-faq-rag
 
 python -m venv .venv
